@@ -51,5 +51,5 @@ To pass time what I mostly do is watching films - *follow me on [Letterboxd](htt
 
 ## 📈 Stats
 
-| ![luizgnclvs' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgnclvs&layout=compact&theme=dracula&hide_border=true) | ![luizgnclvs' status](https://github-readme-stats.vercel.app/api?username=luizgnclvs&=show_icons=true&include_all_commits=true&hide_border=true&theme=dracula) |
+| ![luizgnclvs' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgnclvs&layout=compact&theme=dracula&hide_border=true) | ![luizgnclvs' status](https://github-readme-stats.vercel.app/api?username=luizgnclvs&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula) |
 | ----- | ----- |
