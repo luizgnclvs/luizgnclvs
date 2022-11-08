@@ -15,7 +15,7 @@
 
 ***
 
-## :octocat: About me
+## ✍ About me
 
 <img align="right" src="https://media2.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47nfc1ntq52on3mm740ic9f0rhowyc1b6cqrqgpcaq&rid=giphy.gif&ct=g" alt="Hello There" width="350">
 
@@ -25,33 +25,31 @@ To pass time what I mostly do is watching films - *follow me on [Letterboxd](htt
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizgnclvs" alt="luizgnclvs" /> </p>
 
-<hr>
+***
 
-## ⚡ Languages and tools I am familiar with or am learning
+## ⚡ Languages and tools that I am familiar with or am currently learning
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="" height="30">&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" height="30">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="" height="30">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="" height="30">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="" height="30">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="" height="30">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="" height="30">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="" height="30">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="" height="30">&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="" height="30">&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="" height="30">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="" height="30">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" height="30">&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="" height="30">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="" height="30">&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" height="30">&nbsp;
-<img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/mariadb.png" alt="" height="30">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" height="30">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" height="30">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5" height="30">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3" height="30">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="30">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" height="30">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode" height="30">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" height="30">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" height="30">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="30">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="30">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="MaterialUI" height="30">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="30">&nbsp;
+<img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/mariadb.png" alt="MariaDB" height="30">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello" height="30">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" height="30">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="30">&nbsp;
 
+***
 
+## 📈 Stats
 
-<div align="center">
-
-![luizgnclvs' status](https://github-readme-stats.vercel.app/api?username=luizgnclvs&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula) ![luizgnclvs' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgnclvs&layout=compact&theme=dracula&hide_border=true)
-
-</div>
-
+![luizgnclvs' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgnclvs&layout=compact&theme=dracula&hide_border=true)
+![luizgnclvs' status](https://github-readme-stats.vercel.app/api?username=luizgnclvs&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula)
