@@ -11,9 +11,9 @@
 
 <img align="right" src="https://media2.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47nfc1ntq52on3mm740ic9f0rhowyc1b6cqrqgpcaq&rid=giphy.gif&ct=g" alt="Hello There" width="350">
 
-Hello, my name is Luiz Gonçalves. I'm from Brazil and I'm currently studying *Web Development* at UNICAP. I also recently started as a *Software Developer intern* at *[Iteris](https://www.iteris.com.br/quem-somos/sobre-nos/)* where I'm workig with *Angular*.
+Hello, my name is Luiz Gonçalves. I'm from Brazil and I'm currently studying *Web Development* at UNICAP. I also recently started as a *Software Developer intern* at *[Iteris](https://www.iteris.com.br/quem-somos/sobre-nos/)* where I'm workig with Angular and Spring Boot.
 
-To pass time what I mostly do is watching films - *follow me on [Letterboxd](https://letterboxd.com/luizgnclvs/)* - but I also love to play games, listen to podcasts and make lists.
+In my free time I enjoy playing games and watching films - *follow me on [Letterboxd](https://letterboxd.com/luizgnclvs/)*. I also love to listen to podcasts and stare down at my vision board.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizgnclvs" alt="luizgnclvs" /> </p>
 
